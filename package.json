@@ -40,7 +40,7 @@
     "light-my-request": "^6.0.0",
     "multiparty": "^4.2.1",
     "standard": "^17.0.0",
-    "tap": "^16.3.0",
+    "tap": "^21.0.1",
     "tsd": "^0.31.0",
     "typescript": "^5.1.6"
   },
