@@ -34,7 +34,7 @@
   },
   "homepage": "https://github.com/Eomm/form-auto-content#readme",
   "devDependencies": {
-    "@fastify/multipart": "^8.0.0",
+    "@fastify/multipart": "^9.0.1",
     "@types/node": "^22.0.0",
     "fastify": "^4.17.0",
     "light-my-request": "^6.0.0",
